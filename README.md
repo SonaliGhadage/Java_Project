@@ -11,5 +11,6 @@ correct username and password for authentication.
 This is a web application which is having GUI.
 So, to do all the modifications user need to clear the login phase.
 
-For further details report is provided in "Final_report" folder of the project 
-For Whole proper project please find "MyJavaProject"
+For further details report is provided in "Final_report" folder of the project.
+
+For Whole proper project please find "MyJavaProject".
